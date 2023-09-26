@@ -1,0 +1,6 @@
+-
+  name: setup
+  hosts: localhost
+  roles:
+   - semaphore
+   - user   

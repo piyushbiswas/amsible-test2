@@ -1,0 +1,7 @@
+# tasks file for semaphore
+
+---
+- name: Display a message
+  debug:
+    msg: "This role ran successfully!"
+
